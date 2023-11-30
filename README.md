@@ -4,9 +4,7 @@
 
 This eccomerce backend assignment is to show the way the way the backend of a site would function. Eccomerce sites are everywhere so this assignment teaches real world application of how the backend would function and connect with each other.
 
-## Table of Contents (Optional)
-
-If your README is long, add a table of contents to make it easy for users to find what they need.
+## Table of Contents
 
 - [Installation](#installation)
 - [Usage](#usage)
